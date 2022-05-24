@@ -220,6 +220,17 @@ indigenous_ideas = {
 	}
 }
 
+software_ideas = {
+	category = ADM
+	
+	bonus = {
+		administrative_efficiency = 0.5
+	}
+	
+	
+	
+	}
+
 innovativeness_ideas = {
 	category = ADM
 
