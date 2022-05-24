@@ -227,7 +227,9 @@ software_ideas = {
 		administrative_efficiency = 0.5
 	}
 	
-	
+	central_repo = {
+		governing_cost = -0.25
+		}
 	
 	}
 
