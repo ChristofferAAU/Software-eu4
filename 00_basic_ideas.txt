@@ -1153,6 +1153,48 @@ influence_ideas = {
 	}
 }
 
+officer_core_ideas = {
+	category = MIL
+	
+	bonus = {
+		yearly_army_professionalism = 0.25
+	}
+	
+	field_manuals = {
+		army_tradition_decay = -0.1
+		navy_tradition_decay = -0.1
+		}
+		
+	merit_based_officers = {
+		leader_cost = -0.1
+		may_recruit_female_generals = yes
+		}
+		
+	sieges_and_blockades:_a_guide = {
+		leader_siege = 1
+		}
+		
+	effecient_engagements_101 = {
+		leader_land_manuever = 1
+		leader_naval_manuever = 1
+		}
+	
+	shock_and_awe_stratagems = {
+		leader_land_shock = 1
+		leader_naval_shock = 1
+		}
+	
+	cannon_coordination = {
+		leader_land_fire = 1
+		leader_naval_fire = 1
+		}
+		
+	experienced_officers = {
+		army_tradition = 1
+		navy_tradition = 1
+		}
+}
+
 naval_ideas = {
 	category = MIL
 
