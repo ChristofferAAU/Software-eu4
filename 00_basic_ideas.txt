@@ -1153,7 +1153,7 @@ influence_ideas = {
 	}
 }
 
-officer_core_ideas = {
+officer_corp_ideas = {
 	category = MIL
 	
 	bonus = {
