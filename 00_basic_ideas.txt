@@ -224,14 +224,44 @@ software_ideas = {
 	category = ADM
 	
 	bonus = {
-		administrative_efficiency = 0.5
+		administrative_efficiency = 0.25
 	}
 	
 	central_repo = {
 		governing_cost = -0.25
 		}
+		
+	scaleable_systems = {
+		governing_capacity_modifier = 0.25
+		}
 	
+	networking = {
+		global_institution_spread = 0.25
+		}
+	
+	integration = {
+		years_of_nationalism = -5
+		core_creation = -0.1
+		}
+	
+	CICD_pipeline = {
+		reinforce_cost_modifier = -0.1
+		reinforce_speed = 0.1
+		}
+		
+	test_and_verification = {
+		yearly_corruption = -0.15
+		}
+		
+	code_reviews = {
+		reform_progress_modifier = 0.25
+		}
+	ai_will_do = {
+		factor = 0.1
 	}
+}
+	
+	
 
 innovativeness_ideas = {
 	category = ADM
