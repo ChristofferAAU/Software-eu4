@@ -1267,3 +1267,7 @@ naval_ideas = {
 		}
 	}
 }
+
+war_against_the_world_doctrine = {
+	category = DIP
+}
