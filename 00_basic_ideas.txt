@@ -1268,6 +1268,39 @@ naval_ideas = {
 	}
 }
 
-war_against_the_world_doctrine = {
+diplomatic_subjugation_ideas = {
 	category = DIP
+	
+	bonus = {
+		diplomatic_upkeep = 2
+		}
+	
+	sweet_whispers = {
+		improve_relation_modifier = 0.2
+		}
+		
+	presigeous_shows = {
+		diplomatic_reputation = 1
+		prestige = 1
+		}
+		
+	additional_tongues = {
+		diplomats = 1
+		}
+		
+	show_pros = {
+		accept_vassalization_reasons = 10
+		}
+	
+	enforce_control = {
+		liberty_desire = -25
+		}
+		
+	control_development = {
+		liberty_desire_from_subject_development
+		}
+	
+	consolidation_of_the_realm = {
+		diplomatic_annexation_cost = -0.3
+		}
 }
